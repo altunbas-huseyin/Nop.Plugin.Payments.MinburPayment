@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Minbur Standard",
+  "SystemName": "Payments.MinburPayment",
+  "Version": "1.60",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.MinburPayment.dll",
+  "Description": "This plugin allows paying with Minbur Standard"
+}
